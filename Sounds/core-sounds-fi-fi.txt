@@ -1,0 +1,546 @@
+; Core Asterisk Sounds in Finnish (Suomi)
+; Generated using Piper TTS (fi_FI-harri-medium)
+; Sample rate: 22050 Hz, mono, 16-bit PCM WAV
+; Total entries: 541
+;
+activated: Aktivoitu.
+added: Lisatty.
+agent-alreadyon: Agentti on jo kirjautunut sisaan. Syota agenttinumerosi ja paina risuaitaa.
+agent-incorrect: Kirjautuminen epaonnistui. Syota agenttinumerosi ja paina risuaitaa.
+agent-loggedoff: Agentti kirjautunut ulos.
+agent-loginok: Agentti kirjautunut sisaan.
+agent-newlocation: Syota uusi alanumero ja paina risuaitaa.
+agent-pass: Syota salasanasi ja paina risuaitaa.
+agent-user: Agentin kirjautuminen. Syota agenttinumerosi ja paina risuaitaa.
+all-circuits-busy-now: Kaikki linjat ovat talla hetkella varattuja.
+astcc-followed-by-the-pound-key: Ja paina risuaitaa.
+at-tone-time-exactly: Äänimerkin kuultuasi aika on tasan...
+auth-incorrect: Salasana on virheellinen. Syota salasanasi ja paina risuaitaa.
+auth-thankyou: Kiitos.
+call-forwarding: Soitonsiirto.
+call-fwd-no-ans: Soitonsiirto kun ei vastausta.
+call-fwd-on-busy: Soitonsiirto kun varattu.
+call-fwd-unconditional: Ehdoton soitonsiirto.
+call-waiting: Koputus.
+calling: Soitetaan.
+cancelled: Peruutettu.
+cannot-complete-as-dialed: Puheluasi ei voida yhdistaa valittuun numeroon.
+check-number-dial-again: Tarkista numero ja yrita uudelleen.
+conf-adminmenu: Paina 1 mykistääksesi tai poistaaksesi mykistyksen, 2 lukitaksesi tai avataksesi konferenssin, 3 poistaaksesi viimeisen käyttäjän, 4 tai 6 pienentääksesi tai suurentaaksesi konferenssin äänenvoimakkuutta, 7 tai 9 pienentääksesi tai suurentaaksesi omaa äänenvoimakkuuttasi, tai 8 poistuaksesi.
+conf-adminmenu-162: Paina 1 mykistääksesi tai poistaaksesi mykistyksen, 2 lukitaksesi tai avataksesi konferenssin, 3 poistaaksesi viimeisen käyttäjän, 4 tai 6 pienentääksesi tai suurentaaksesi konferenssin äänenvoimakkuutta, 5 jatkaaksesi konferenssia, 7 tai 9 pienentääksesi tai suurentaaksesi omaa äänenvoimakkuuttasi, tai 8 poistuaksesi.
+conf-adminmenu-18: Paina 1 mykistääksesi tai poistaaksesi mykistyksen, 2 lukitaksesi tai avataksesi konferenssin, 3 poistaaksesi viimeisen käyttäjän, 4 tai 6 pienentääksesi tai suurentaaksesi konferenssin äänenvoimakkuutta, 5 jatkaaksesi konferenssia, 7 tai 9 pienentääksesi tai suurentaaksesi omaa äänenvoimakkuuttasi, tai 8 lisävalintoihin.
+conf-adminmenu-menu8: Paina 1 nähdäksesi konferenssissa olevat käyttäjät, 2 poistaaksesi kaikki muut kuin ylläpitäjät, 3 mykistääksesi tai poistaaksesi mykistyksen kaikilta muilta kuin ylläpitäjiltä, 4 tallentaaksesi tämän konferenssin, tai 8 poistuaksesi tästä valikosta ja palataksesi konferenssiin.
+conf-enteringno: Olette liittymassa neuvottelupuheluun numero
+conf-errormenu: Virheellinen valinta.
+conf-extended: Neuvottelupuhelua on jatkettu.
+conf-full: Neuvottelupuhelu on taysi.
+conf-getchannel: Syota kanavanumero ja paina risuaitaa.
+conf-getconfno: Syota neuvottelupuhelun numero ja paina risuaitaa.
+conf-getpin: Syota neuvottelupuhelun PIN-koodi.
+conf-hasjoin: on nyt neuvottelupuhelussa.
+conf-hasleft: on poistunut neuvottelupuhelusta.
+conf-invalid: Neuvottelupuhelun numero on virheellinen. Yritathan uudelleen.
+conf-invalidpin: PIN-koodi on virheellinen talle neuvottelupuhelulle.
+conf-kicked: Teidät on poistettu neuvottelupuhelusta.
+conf-leaderhasleft: Puheenjohtaja on poistunut neuvottelupuhelusta.
+conf-locked: Tama neuvottelupuhelu on lukittu.
+conf-lockednow: Neuvottelupuhelu on nyt lukittu.
+conf-muted: Olette nyt mykistetty.
+conf-noempty: Tyhjia neuvottelupuheluita ei ole talla hetkella saatavilla.
+conf-nonextended: Neuvottelupuhelua ei voida jatkaa.
+conf-now-muted: Neuvottelupuhelu on nyt mykistetty.
+conf-now-recording: Neuvottelupuhelua nauhoitetaan nyt.
+conf-now-unmuted: Neuvottelupuhelun mykistys on nyt poistettu.
+conf-onlyone: Neuvottelupuhelussa on talla hetkella yksi muu osallistuja.
+conf-onlyperson: Olette talla hetkella ainoa henkilo tassa neuvottelupuhelussa.
+conf-otherinparty: muuta osallistujaa neuvottelupuhelussa.
+conf-placeintoconf: Teidät yhdistetaan nyt neuvottelupuheluun.
+conf-roll-callcomplete: Osallistujaluettelon toisto on valmis.
+conf-thereare: Talla hetkella on
+conf-unlockednow: Neuvottelupuhelun lukitus on nyt poistettu.
+conf-unmuted: Mykistys on nyt poistettu.
+conf-usermenu: Paina yksi mykistaaksesi tai poistaaksesi mykistyksen, nelja tai kuusi pienentaaksesi tai suurentaaksesi neuvottelupuhelun aanenvoimakkuutta, seitseman tai yhdeksan pienentaaksesi tai suurentaaksesi omaa aanenvoimakkuuttasi, tai kahdeksan poistuaksesi.
+conf-usermenu-162: Paina yksi mykistaaksesi tai poistaaksesi mykistyksen, nelja tai kuusi pienentaaksesi tai suurentaaksesi neuvottelupuhelun aanenvoimakkuutta, viisi jatkaaksesi neuvottelupuhelua, seitseman tai yhdeksan pienentaaksesi tai suurentaaksesi omaa aanenvoimakkuuttasi, tai kahdeksan poistuaksesi valikosta ja palataksesi neuvottelupuheluun.
+conf-userswilljoin: kayttajaa liittyy neuvottelupuheluun.
+conf-userwilljoin: kayttaja liittyy neuvottelupuheluun.
+conf-waitforleader: Neuvottelupuhelu alkaa kun puheenjohtaja saapuu.
+confbridge-begin-glorious-a: Neuvottelupuhelu alkaa kun loistava johtajamme saapuu.
+confbridge-begin-glorious-b: Neuvottelupuhelu alkaa kun loistava johtajamme saapuu.
+confbridge-begin-glorious-c: Neuvottelupuhelu alkaa kun loistava johtajamme saapuu.
+confbridge-begin-leader: Neuvottelupuhelu alkaa kun puheenjohtaja saapuu.
+confbridge-binaural-off: Kolmiulotteinen aani poistettu kaytosta.
+confbridge-binaural-on: Kolmiulotteinen aani otettu kayttoon.
+confbridge-conf-begin: Neuvottelupuhelu alkaa nyt.
+confbridge-conf-end: Neuvottelupuhelu on paattynyt.
+confbridge-dec-list-vol-in: Pienentaaksesi muiden osallistujien aanenvoimakkuutta...
+confbridge-dec-list-vol-out: ...pienentaaksesi muiden osallistujien aanenvoimakkuutta.
+confbridge-dec-talk-vol-in: Pienentaaksesi omaa puheaanenvoimakkuuttasi muille osallistujille...
+confbridge-dec-talk-vol-out: ...pienentaaksesi omaa puheaanenvoimakkuuttasi muille osallistujille.
+confbridge-has-joined: ...on liittynyt neuvottelupuheluun.
+confbridge-has-left: ...on poistunut neuvottelupuhelusta.
+confbridge-inc-list-vol-in: Suurentaaksesi muiden osallistujien aanenvoimakkuutta...
+confbridge-inc-list-vol-out: ...suurentaaksesi muiden osallistujien aanenvoimakkuutta.
+confbridge-inc-talk-vol-in: Suurentaaksesi omaa puheaanenvoimakkuuttasi muille osallistujille...
+confbridge-inc-talk-vol-out: ...suurentaaksesi omaa puheaanenvoimakkuuttasi muille osallistujille.
+confbridge-invalid: Olette syottanyt virheellisen valinnan.
+confbridge-leave-in: Poistuaksesi neuvottelupuhelusta...
+confbridge-leave-out: ...poistuaksesi neuvottelupuhelusta.
+confbridge-lock-extended: ...lukitaksesi tai avataksesi neuvottelupuhelun. Kun neuvottelupuhelu on lukittu, vain yllapitajat voivat liittya siihen.
+confbridge-lock-in: Lukitaksesi tai avataksesi neuvottelupuhelun...
+confbridge-lock-no-join: Neuvottelupuhelu on talla hetkella lukittu eika siihen voi liittya.
+confbridge-lock-out: ...lukitaksesi tai avataksesi neuvottelupuhelun.
+confbridge-locked: Neuvottelupuhelu on nyt lukittu.
+confbridge-menu-exit-in: Poistuaksesi valikosta...
+confbridge-menu-exit-out: ...poistuaksesi valikosta.
+confbridge-mute-extended: ...mykistaaksesi tai poistaaksesi mykistyksen. Kun olette mykistetty, aantanne ei valiteta muille osallistujille. Kuulette kuitenkin muiden mykistamattomien osallistujien aanen.
+confbridge-mute-in: Mykistaaksesi tai poistaaksesi mykistyksen...
+confbridge-mute-out: ...mykistaaksesi tai poistaaksesi mykistyksen.
+confbridge-muted: Olette nyt mykistetty.
+confbridge-only-one: Neuvottelupuhelussa on talla hetkella yksi muu osallistuja.
+confbridge-only-participant: Olette talla hetkella ainoa osallistuja neuvottelupuhelussa.
+confbridge-participants: ...osallistujaa neuvottelupuhelussa.
+confbridge-pin: Syota henkilokohtainen tunnuslukusi ja paina risuaitaa.
+confbridge-pin-bad: Olette syottanyt liian monta virheellista tunnuslukua.
+confbridge-remove-last-in: Poistaaksesi viimeksi liittyneen osallistujan neuvottelupuhelusta...
+confbridge-remove-last-out: ...poistaaksesi viimeksi liittyneen osallistujan neuvottelupuhelusta.
+confbridge-removed: Teidät on poistettu neuvottelupuhelusta.
+confbridge-rest-list-vol-in: Palauttaaksesi neuvottelupuhelun aanenvoimakkuuden oletusasetuksiin...
+confbridge-rest-list-vol-out: ...palauttaaksesi neuvottelupuhelun aanenvoimakkuuden oletusasetuksiin.
+confbridge-rest-talk-vol-in: Palauttaaksesi oman puheaanenvoimakkuutesi oletusasetuksiin...
+confbridge-rest-talk-vol-out: ...palauttaaksesi oman puheaanenvoimakkuutesi oletusasetuksiin.
+confbridge-there-are: Talla hetkella on...
+confbridge-unlocked: Neuvottelupuhelun lukitus on nyt poistettu.
+confbridge-unmuted: Mykistyksenne on nyt poistettu.
+de-activated: Poistettu kaytosta.
+dictate/both_help: paina tähti keskeyttääksesi tai jatkaaksesi, paina risuaita syöttääksesi uuden sanelutiedoston nimen
+dictate/enter_filename: Syötä numeerinen sanelutiedoston nimi ja paina risuaita, tai paina pelkkä risuaita poistuaksesi
+dictate/forhelp: paina 0 saadaksesi ohjeita
+dictate/pause: tauko
+dictate/paused: keskeytetty
+dictate/play_help: paina 1 vaihtaaksesi tallennustilaan, paina 2 vaihtaaksesi nopean toiston tilaan, paina 7 siirtyäksesi taaksepäin, paina 8 siirtyäksesi eteenpäin
+dictate/playback: toisto
+dictate/playback_mode: toistotila
+dictate/record: tallennus
+dictate/record_help: paina 1 vaihtaaksesi toistotilaan, paina 8 tyhjentääksesi tiedoston ja aloittaaksesi alusta
+dictate/record_mode: tallennustila
+dictate/truncating_audio: ääni katkaistaan
+digits/0: nolla
+digits/1: yksi
+digits/10: kymmenen
+digits/11: yksitoista
+digits/12: kaksitoista
+digits/13: kolmetoista
+digits/14: neljatoista
+digits/15: viisitoista
+digits/16: kuusitoista
+digits/17: seitsemantoista
+digits/18: kahdeksantoista
+digits/19: yhdeksantoista
+digits/2: kaksi
+digits/20: kaksikymmentä
+digits/3: kolme
+digits/30: kolmekymmentä
+digits/4: nelja
+digits/40: neljakymmentä
+digits/5: viisi
+digits/50: viisikymmentä
+digits/6: kuusi
+digits/60: kuusikymmentä
+digits/7: seitseman
+digits/70: seitsemankymmenta
+digits/8: kahdeksan
+digits/80: kahdeksankymmenta
+digits/9: yhdeksan
+digits/90: yhdeksankymmenta
+digits/a-m: aamupäivällä
+digits/at: kello
+digits/billion: miljardia
+digits/day-0: sunnuntai
+digits/day-1: maanantai
+digits/day-2: tiistai
+digits/day-3: keskiviikko
+digits/day-4: torstai
+digits/day-5: perjantai
+digits/day-6: lauantai
+digits/dollars: dollaria
+digits/h-1: ensimmainen
+digits/h-10: kymmenes
+digits/h-11: yhdestoista
+digits/h-12: kahdestoista
+digits/h-13: kolmastoista
+digits/h-14: neljastoista
+digits/h-15: viidestoista
+digits/h-16: kuudestoista
+digits/h-17: seitsemastoista
+digits/h-18: kahdeksastoista
+digits/h-19: yhdeksastoista
+digits/h-2: toinen
+digits/h-20: kahdeskymmenes
+digits/h-3: kolmas
+digits/h-30: kolmaskymmenes
+digits/h-4: neljas
+digits/h-40: neljaskymmenes
+digits/h-5: viides
+digits/h-50: viideskymmenes
+digits/h-6: kuudes
+digits/h-60: kuudeskymmenes
+digits/h-7: seitsemas
+digits/h-70: seitsemaskymmenes
+digits/h-8: kahdeksas
+digits/h-80: kahdeksaskymmenes
+digits/h-9: yhdeksas
+digits/h-90: yhdeksaskymmenes
+digits/h-billion: miljardis
+digits/h-hundred: sadasosa
+digits/h-million: miljoonas
+digits/h-thousand: tuhannes
+digits/hundred: sataa
+digits/million: miljoonaa
+digits/minus: miinus
+digits/mon-0: tammikuu
+digits/mon-1: helmikuu
+digits/mon-10: marraskuu
+digits/mon-11: joulukuu
+digits/mon-2: maaliskuu
+digits/mon-3: huhtikuu
+digits/mon-4: toukokuu
+digits/mon-5: kesakuu
+digits/mon-6: heinakuu
+digits/mon-7: elokuu
+digits/mon-8: syyskuu
+digits/mon-9: lokakuu
+digits/oclock: tasan
+digits/oh: nolla
+digits/p-m: iltapäivällä
+digits/pound: risuaita
+digits/star: tahti
+digits/thousand: tuhatta
+digits/today: tanaan
+digits/tomorrow: huomenna
+digits/yesterday: eilen
+dir-first: osapuolen etunimen kirjaimet.
+dir-firstlast: ... osapuolen etu- tai sukunimen kirjaimet.
+dir-instr: Jos tämä on etsimänne henkilö, painakaa 1, muussa tapauksessa painakaa tähti.
+dir-intro: Tervetuloa hakemistoon. Syöttäkää osapuolenne sukunimen kolme ensimmäistä kirjainta puhelimen näppäimistöllä. Käyttäkää näppäintä 7 kirjaimelle Q ja näppäintä 9 kirjaimelle Z.
+dir-intro-fn: Tervetuloa hakemistoon. Syöttäkää osapuolenne etunimen kolme ensimmäistä kirjainta puhelimen näppäimistöllä. Käyttäkää näppäintä 7 kirjaimelle Q ja näppäintä 9 kirjaimelle Z.
+dir-last: ... osapuolen sukunimen kirjaimet.
+dir-multi1: Painakaa ...
+dir-multi2: ... valitaksenne ...
+dir-multi3: ... alanumero ...
+dir-multi9: Painakaa 9 nähdäksenne lisää tuloksia.
+dir-nomatch: Hakuasi vastaavia hakemistotietoja ei löytynyt.
+dir-nomore: Hakemistossa ei ole enempää vastaavia tietoja.
+dir-pls-enter: Syöttäkää ensimmäiset ...
+dir-usingkeypad: ... puhelimen näppäimistöllä. Käyttäkää näppäintä 7 kirjaimelle Q ja näppäintä 9 kirjaimelle Z.
+dir-welcome: Tervetuloa hakemistoon
+disabled: Poistettu kaytosta.
+do-not-disturb: Ala hairitse.
+enabled: Otettu kayttoon.
+enter-num-blacklist: Syota estettava numero.
+entr-num-rmv-blklist: Syota estolistalta poistettava numero.
+extension: Alanumero.
+feature-not-avail-line: Tämä ominaisuus ei ole käytettävissä tällä linjalla.
+followme/call-from: saapuva puhelu soittajalta
+followme/no-recording: teillä on saapuva puhelu
+followme/options: painakaa 1 hyväksyäksenne tämän puhelun tai 2 hylätäksenne sen
+followme/pls-hold-while-try: odottakaa, kun yritämme tavoittaa henkilöä, jolle soitatte
+followme/sorry: Valitettavasti etsimanne henkilo ei ole tavoitettavissa.
+followme/status: henkilö, jolle soitatte, ei ole paikallaan; yritämme tavoittaa häntä puolestanne
+for: Valinta.
+from-unknown-caller: Tuntemattomalta soittajalta.
+goodbye: Näkemiin!
+hello: Hei.
+hello-world: Hei maailma.
+hours: tuntia
+if-correct-press: Jos tämä on oikein, painakaa...
+im-sorry: Anteeksi.
+info-about-last-call: Tiedot viimeisestä puhelustanne.
+invalid: Virheellinen alanumero. Yritathan uudelleen.
+is: On.
+is-in-use: On käytössä.
+is-set-to: On asetettu arvoon.
+letters/a: aa
+letters/ascii123: vasen aaltosulku
+letters/ascii124: pystyviiva
+letters/ascii125: oikea aaltosulku
+letters/ascii126: tilde
+letters/ascii34: lainausmerkki
+letters/ascii36: dollarimerkki
+letters/ascii37: prosentti
+letters/ascii38: et-merkki
+letters/ascii39: heittomerkki
+letters/ascii40: vasen sulku
+letters/ascii41: oikea sulku
+letters/ascii42: tähti
+letters/ascii44: pilkku
+letters/ascii58: kaksoispiste
+letters/ascii59: puolipiste
+letters/ascii60: pienempi kuin
+letters/ascii62: suurempi kuin
+letters/ascii63: kysymysmerkki
+letters/ascii91: vasen hakasulku
+letters/ascii92: kenoviiva
+letters/ascii93: oikea hakasulku
+letters/ascii94: sirkumfleksi
+letters/ascii95: alaviiva
+letters/ascii96: gravis
+letters/asterisk: tähti
+letters/at: ät-merkki
+letters/b: bee
+letters/c: see
+letters/d: dee
+letters/dash: viiva
+letters/dollar: dollari
+letters/dot: piste
+letters/e: ee
+letters/equals: yhtä suuri kuin
+letters/exclaimation-point: huutomerkki
+letters/f: äf
+letters/g: gee
+letters/h: hoo
+letters/i: ii
+letters/j: jii
+letters/k: koo
+letters/l: äl
+letters/m: äm
+letters/n: än
+letters/o: oo
+letters/p: pee
+letters/plus: plus
+letters/q: kuu
+letters/r: är
+letters/s: äs
+letters/slash: kauttaviiva
+letters/space: välilyönti
+letters/t: tee
+letters/u: uu
+letters/v: vee
+letters/w: kaksois-vee
+letters/x: äks
+letters/y: yy
+letters/z: tseta
+letters/zed: tseta
+location: Sijainti.
+lowercase: pienaakkonen
+minute: minuutti
+minutes: minuuttia
+num-was-successfully: Numero asetettiin onnistuneesti...
+number: Numero.
+number-not-answering: Numerosta ei vastata.
+one-moment-please: Hetkinen, olkaa hyva.
+pbx-invalid: Virheellinen alanumero. Yritathan uudelleen.
+pbx-invalidpark: Kyseisessa alanumerossa ei ole pysatoitya puhelua. Yritathan uudelleen.
+pbx-parkingfailed: Puhelun pysakointi epaonnistui.
+pbx-transfer: Siirto.
+phonetic/9_p: niner
+phonetic/a_p: alpha
+phonetic/b_p: bravo
+phonetic/c_p: charlie
+phonetic/d_p: delta
+phonetic/e_p: echo
+phonetic/f_p: foxtrot
+phonetic/g_p: golf
+phonetic/h_p: hotel
+phonetic/i_p: india
+phonetic/j_p: juliet
+phonetic/k_p: kilo
+phonetic/l_p: lima
+phonetic/m_p: mike
+phonetic/n_p: november
+phonetic/o_p: oscar
+phonetic/p_p: papa
+phonetic/q_p: quebec
+phonetic/r_p: romeo
+phonetic/s_p: sierra
+phonetic/t_p: tango
+phonetic/u_p: uniform
+phonetic/v_p: victor
+phonetic/w_p: whiskey
+phonetic/x_p: xray
+phonetic/y_p: yankee
+phonetic/z_p: zulu
+please-try-again: Yritathan uudelleen.
+please-try-call-later: Yritathan soittaa myohemmin uudelleen.
+pls-hold-while-try: Odottakaa hetki, kun yritamme yhdistaa puheluanne.
+pls-try-call-later: Yritathan soittaa myohemmin uudelleen.
+pm-invalid-option: Valinta on virheellinen. Yrittäkää uudelleen.
+priv-callee-options: Painakaa 1, jos haluatte tämän soittajan tavoittavan teidät suoraan nyt ja jatkossa. Painakaa 2, jos haluatte ohjata soittajan vastaajaan nyt ja jatkossa. Painakaa 3 ohjaaksenne soittajan kiusausvalikkoon nyt ja jatkossa. Painakaa 4 ohjaaksenne soittajan kohteliaaseen älä soita -valikkoon nyt ja jatkossa. Painakaa 5 salliaksenne soittajan yhteydenoton suoraan jatkossa, mutta tällä kertaa ohjaaksenne hänet vastaajaan.
+priv-callpending: Linjalla odottaa soittaja, joka esittelee itsensä seuraavasti:
+priv-introsaved: Kiitos. Odottakaa, kun yritämme yhdistää teidät osapuolellenne!
+priv-recordintro: Äänimerkin jälkeen sanokaa nimenne.
+privacy-incorrect: Valitettavasti kyseinen numero ei ole kelvollinen.
+privacy-prompt: Syöttäkää puhelinnumeronne alkaen suuntanumerosta.
+privacy-thankyou: Kiitos.
+privacy-to-blacklist-last-caller: Viimeinen soittaja oli...
+privacy-unident: Henkilö, jolle soitatte, ei vastaanota tunnistamattomia puheluita.
+queue-callswaiting: Odottamassa puhelua asiakaspalvelijalle.
+queue-holdtime: Arvioitu odotusaika on talla hetkella
+queue-less-than: alle
+queue-minute: minuutti
+queue-minutes: minuuttia
+queue-periodic-announce: Kaikki asiakaspalvelijamme ovat talla hetkella varattuja. Pysykaa linjalla, puheluunne vastataan seuraavan vapautuvan asiakaspalvelijan toimesta.
+queue-quantity1: Talla hetkella on yli...
+queue-quantity2: ...soittajaa odottamassa puhelua asiakaspalvelijalle.
+queue-reporthold: Odotusaika
+queue-seconds: sekuntia
+queue-thankyou: Kiitos kaersivallisyydestanne.
+queue-thereare: Olette talla hetkella jonossa sijalla
+queue-youarenext: Puhelunne on nyt ensimmaisena jonossa ja siihen vastataan seuraavan vapautuvan asiakaspalvelijan toimesta.
+removed: Poistettu.
+screen-callee-options: Teillä on seuraavat vaihtoehdot: Painakaa 1 yhdistääksenne saapuvan puhelun välittömästi. Painakaa 2 ohjaaksenne soittajan vastaajaan. Painakaa 3 ohjaaksenne soittajan kiusausvalikkoon. Painakaa 4 ohjaaksenne soittajan kohteliaaseen älä soita -valikkoon.
+second: sekunti
+seconds: sekuntia
+simul-call-limit-reached: Samanaikaisten puhelujen enimmaismaara on saavutettu.
+something-terribly-wrong: Jokin meni pahasti pieleen!
+sorry: Pahoittelemme.
+sorry-youre-having-problems: Pahoittelemme, että teillä on ongelmia.
+speed-dial: Pikanumero.
+speed-dial-empty: Valitsemanne pikanumero on tyhjä.
+spy-agent: Agent
+spy-console: Console
+spy-dahdi: DAHDI
+spy-h323: H.323
+spy-iax: IAX
+spy-iax2: IAX
+spy-jingle: Jingle
+spy-local: Local
+spy-mgcp: MGCP
+spy-misdn: M I S D N
+spy-mobile: Bluetooth Mobile
+spy-nbs: N B S
+spy-sip: SIP
+spy-skinny: Skinny
+spy-unistim: Unistim
+spy-usbradio: USB Radio
+spy-zap: Zap
+ss-noservice: Valitsemanne numero ei ole kaytossa. Tarkistakaa numero ja yrittakaa uudelleen.
+telephone-number: Puhelinnumero.
+time: Aika.
+to-call-this-number: Soittaaksesi tahan numeroon.
+to-extension: Alanumeroon.
+to-listen-to-it: Kuunnellaksesi sen.
+to-rerecord-it: Nauhoittaaksesi sen uudelleen.
+transfer: Odottakaa hetki, kun yritamme yhdistaa alanumeroon.
+tt-allbusy: Kaikki edustajat ovat talla hetkella varattuja palvellen muita puhelinmyyjiä. Pysykaa linjalla, puheluunne vastataan saapumisjarjestyksessa.
+tt-monkeysintro: Heidät ovat vieneet apinat
+tt-somethingwrong: Jokin meni pahasti pieleen
+tt-weasels: Naadät ovat syoneet puhelinjarjestelmamme.
+unidentified-no-callback: Tunnistamaton tai salattu numero, johon ei voida soittaa takaisin.
+uppercase: suuraakkonen
+vm-Cust1: kansio 5
+vm-Cust2: kansio 6
+vm-Cust3: kansio 7
+vm-Cust4: kansio 8
+vm-Cust5: kansio 9
+vm-Family: perhe
+vm-Friends: ystävät
+vm-INBOX: uudet
+vm-Old: vanhat
+vm-Urgent: kiireelliset
+vm-Work: työ
+vm-advopts: painakaa 3 lisäasetuksia varten
+vm-and: ja
+vm-calldiffnum: painakaa 2 syöttääksenne toisen numeron
+vm-changeto: Mihin kansioon halutaan vaihtaa?
+vm-delete: Painakaa 7 poistaaksenne tämän viestin.
+vm-deleted: Viesti poistettu.
+vm-dialout: odottakaa, kun puhelua yhdistetään
+vm-duration: Tämän viestin kesto on ...
+vm-enter-num-to-call: Syota numero johon haluatte soittaa.
+vm-extension: alanumero
+vm-first: ensimmäinen
+vm-for: valinta
+vm-forward: Painakaa 1 syöttääksenne alanumeron, painakaa 2 käyttääksenne hakemistoa
+vm-forward-multiple: painakaa 1 lähettääksenne tämän viestin tai 2 lisätäksenne toisen vastaanottajan.
+vm-forwardoptions: painakaa 1 lisätäksenne alkulauseen viestiin tai 2 edelleenlähettääksenne viestin sellaisenaan
+vm-from: lähettäjä
+vm-from-extension: viesti alanumerosta
+vm-from-phonenumber: viesti puhelinnumerosta
+vm-goodbye: Naekemiin.
+vm-helpexit: Painakaa tähti saadaksenne ohjeita tai risuaita poistuaksenne.
+vm-incorrect: Kirjautuminen epäonnistui.
+vm-incorrect-mailbox: Kirjautuminen epäonnistui. Postilaatikko?
+vm-instructions: Kuunnellaksenne viestejänne painakaa 1. Voitte poistua vastaajasta milloin tahansa painamalla risuaita.
+vm-intro: Jattakaa viestinne aanimerkin jalkeen. Kun olette valmis, sulkekaa puhelu tai painakaa risuaitaa.
+vm-invalid-password: Salasana ei täytä tämän postilaatikon vähimmäisvaatimuksia. Yrittäkää uudelleen.
+vm-invalidpassword: Salasana ei kelpaa. Yrittäkää uudelleen.
+vm-isonphone: on puhelimessa
+vm-isunavail: ei ole tavoitettavissa
+vm-last: viimeinen
+vm-leavemsg: Painakaa 5 jättääksenne viestin
+vm-login: Vastaaja. Postilaatikko?
+vm-mailboxfull: valitettavasti postilaatikko on täynnä eikä voi vastaanottaa uusia viestejä
+vm-marked-nonurgent: Kiireellinen tila poistettu.
+vm-marked-urgent: Viesti merkitty kiireelliseksi.
+vm-message: viesti
+vm-messages: viestiä
+vm-minutes: minuuttia
+vm-mismatch: Syöttämänne salasanat eivät täsmää. Yrittäkää uudelleen.
+vm-msgforwarded: Viestinne on edelleenlähetetty onnistuneesti.
+vm-msginstruct: Kuunnellaksenne seuraavan viestin painakaa 6, toistaaksenne tämän viestin painakaa 5, kuunnellaksenne edellisen viestin painakaa 4, poistaaksenne tai palauttaaksenne tämän viestin painakaa 0, poistuaksenne vastaajasta painakaa risuaita.
+vm-msgsaved: Viestinne on tallennettu.
+vm-newpassword: Syöttäkää uusi salasananne ja painakaa sitten risuaita.
+vm-newuser: Tervetuloa vastaajaan. Ensin opastamme teidät lyhyen käyttöönottoprosessin läpi.
+vm-next: Painakaa 6 kuunnellaksenne seuraavan viestin.
+vm-no: ei
+vm-nobodyavail: Kukaan ei ole tällä hetkellä vastaamassa puheluunne
+vm-nobox: tähän viestiin ei voi vastata, koska lähettäjällä ei ole postilaatikkoa
+vm-nomore: Ei enempää viestejä.
+vm-nonumber: Valitettavasti lähettäjän numeroa ei ole tiedossa
+vm-num-i-have: tallennettu numero on
+vm-onefor: Painakaa 1 valitaksenne
+vm-onefor-full: Painakaa 1 kuunnellaksenne ...
+vm-options: Painakaa 1 tallentaaksenne poissaoloviestinne, painakaa 2 tallentaaksenne varattu-viestinne, painakaa 3 tallentaaksenne nimenne, painakaa 4 tallentaaksenne väliaikaisen tervehdyksenne, painakaa 5 vaihtaaksenne salasananne, painakaa tähti palataksenne päävalikkoon.
+vm-opts: Painakaa 2 vaihtaaksenne kansiota, painakaa 3 lisäasetuksia varten, painakaa 0 postilaatikon asetuksiin.
+vm-opts-full: painakaa 2 kuunnellaksenne muihin kansioihin tallennettuja viestejä. Painakaa 3 tallentaaksenne viestin toiseen postilaatikkoon. Painakaa 0 tervehdysten ja salasanan hallintaan.
+vm-passchanged: Salasananne on vaihdettu.
+vm-password: salasana
+vm-pls-try-again: yrittäkää uudelleen
+vm-press: painakaa
+vm-prev: Painakaa 4 kuunnellaksenne edellisen viestin
+vm-reachoper: painakaa 0 tavoittaaksenne operaattorin
+vm-rec-busy: Äänimerkin jälkeen sanokaa varattu-viestinne ja painakaa sitten risuaita.
+vm-rec-name: Äänimerkin jälkeen sanokaa nimenne ja painakaa sitten risuaita.
+vm-rec-temp: Äänimerkin jälkeen sanokaa väliaikainen viestinne ja painakaa sitten risuaita.
+vm-rec-unv: Äänimerkin jälkeen sanokaa poissaoloviestinne ja painakaa sitten risuaita.
+vm-received: vastaanotettu
+vm-record-prepend: Äänimerkin jälkeen tallentakaa johdanto edelleenlähetettävään viestiin. Kun olette valmis, painakaa risuaita.
+vm-reenterpassword: Syöttäkää salasananne uudelleen ja painakaa sitten risuaita.
+vm-repeat: Painakaa 5 toistaaksenne nykyisen viestin.
+vm-review: painakaa 1 hyväksyäksenne tämän tallenteen, painakaa 2 kuunnellaksenne sen, painakaa 3 tallentaaksenne viestinne uudelleen
+vm-review-nonurgent: Painakaa 4 poistaaksenne tämän viestin kiireellisen tilan.
+vm-review-urgent: Painakaa 4 merkitäksenne tämän viestin kiireelliseksi.
+vm-saved: tallennettu
+vm-savedto: tallennettu kansioon
+vm-savefolder: Mihin kansioon viesti tallennetaan?
+vm-savemessage: tai 9 tallentaaksenne tämän viestin
+vm-saveoper: painakaa 1 hyväksyäksenne tämän tallenteen, muussa tapauksessa pysykää linjalla
+vm-sorry: Anteeksi, vastaustanne ei ymmärretty.
+vm-star-cancel: painakaa tähti peruuttaaksenne
+vm-starmain: painakaa tähti palataksenne päävalikkoon
+vm-tempgreetactive: Väliaikainen tervehdyksenne on tällä hetkellä käytössä
+vm-tempgreeting: painakaa 1 tallentaaksenne väliaikaisen tervehdyksenne
+vm-tempgreeting2: painakaa 1 tallentaaksenne väliaikaisen tervehdyksenne tai painakaa 2 poistaaksenne väliaikaisen tervehdyksenne
+vm-tempremoved: Väliaikainen tervehdyksenne on poistettu
+vm-then-pound: ja painakaa sitten risuaita
+vm-theperson: Henkilö alanumerossa
+vm-tmpexists: Väliaikainen tervehdys on käytössä ja ohittaa vakiotervehdyksenne.
+vm-tocallback: painakaa 2 soittaaksenne takaisin tämän viestin lähettäjälle
+vm-tocallnum: painakaa 1 soittaaksenne tähän numeroon
+vm-tocancel: tai risuaita peruuttaaksenne.
+vm-tocancelmsg: painakaa tähti peruuttaaksenne tämän viestin
+vm-toenternumber: painakaa 1 syöttääksenne numeron
+vm-toforward: Painakaa 8 edelleenlähettääksenne viestin toiselle käyttäjälle
+vm-tohearenv: painakaa 3 kuullaksenne viestin tiedot
+vm-tomakecall: painakaa 4 soittaaksenne ulosmenevän puhelun
+vm-tooshort: viestinne on liian lyhyt
+vm-toreply: painakaa 1 lähettääksenne vastauksen
+vm-torerecord: painakaa 3 tallentaaksenne viestinne uudelleen
+vm-undelete: Painakaa 7 palauttaaksenne tämän viestin
+vm-undeleted: Viesti palautettu.
+vm-unknown-caller: tuntemattomalta soittajalta
+vm-whichbox: Jättääksenne viestin, syöttäkää postilaatikon numero.
+vm-youhave: teillä on
+with: Kanssa.
+you-entered: Syotitte.
+your: Teidan.
