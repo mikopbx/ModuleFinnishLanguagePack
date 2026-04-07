@@ -3,20 +3,13 @@
 declare(strict_types=1);
 
 return [
-    'BreadcrumbModuleFinnishLanguagePack' => 'Finnish Language Pack',
+    'BreadcrumbModuleFinnishLanguagePack' => 'Language Pack - Finnish',
     'SubHeaderModuleFinnishLanguagePack' => 'Complete Finnish language support for MikoPBX',
-    'mlp_SoundFiles' => 'Sound Files',
-    'mlp_TranslationFiles' => 'Translation Files',
-    'mlp_TranslationStrings' => 'Translation Strings',
-    'mlp_HowToUse' => 'How to Use',
-    'mlp_Step1' => 'After enabling this language pack, select Finnish as the system language in General Settings.',
-    'mlp_GoToGeneralSettings' => 'Go to General Settings',
-    'mlp_LicenseHeader' => 'License',
-    'mlp_ModuleCode' => 'Module code',
-    'mlp_SoundFilesLicense' => 'Sound files',
-    'mlp_SoundFilesLicenseText' => 'Asterisk Sound Files (CC BY-SA 4.0)',
-    'mlp_CopyrightHeader' => 'Copyright',
-    'mlp_ModuleDevelopment' => 'Module development',
-    'mlp_VoicePrompts' => 'Voice prompts',
-    'mlp_VoicePromptsSource' => 'From official Asterisk release',
+    'mlp_fi_SoundFiles' => 'Sound Files',
+    'mlp_fi_TranslationFiles' => 'Translation Files',
+    'mlp_fi_TranslationStrings' => 'Translation Strings',
+    'mlp_fi_Step1' => 'After enabling this language pack, select the appropriate language in General Settings.',
+    'mlp_fi_GoToGeneralSettings' => 'Go to General Settings',
+    'mlp_fi_HelpTranslate' => 'Want to improve the translation? Help us on Weblate!',
+    'mlp_fi_WeblateLink' => 'Open Weblate',
 ];
